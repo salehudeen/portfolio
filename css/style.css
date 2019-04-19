@@ -1,6 +1,7 @@
 h1{
   text-align: center;
   background-color: blue;
+  color: yellow;
 }
 .links{
   float: left;
@@ -8,4 +9,33 @@ h1{
 }
 .image{
   float: right;
+  width:50%;
+}
+.quote{
+  font-style: italic;
+}
+.main{
+  font-weight: bolder;
+  color: red;
+}
+h2{
+  text-align: center;
+}
+.about{
+  text-align: center;
+}
+body{
+  background-color:  #008080;
+}
+h5{
+  font-weight: bolder;
+}
+#intrests{
+  float: right;
+}
+h6{
+ text-align: center;
+}
+.hobskills{
+  float:left
 }
