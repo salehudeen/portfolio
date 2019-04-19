@@ -1,0 +1,11 @@
+h1{
+  text-align: center;
+  background-color: blue;
+}
+.links{
+  float: left;
+  background-color: yellow;
+}
+.image{
+  float: right;
+}
