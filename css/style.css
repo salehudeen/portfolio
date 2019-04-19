@@ -37,5 +37,10 @@ h6{
  text-align: center;
 }
 .hobskills{
-  float:left
+  float:left;
+  background-color: springgreen;
+}
+.copyright{
+  text-align: center;
+  clear: both;
 }
