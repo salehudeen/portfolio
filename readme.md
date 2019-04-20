@@ -2,7 +2,7 @@
 #### {this is a website on my portfolio}, {18/4/019.was the publish date}
 #### By **{Salehudeen}**
 ## Description
-{This is a detailed description of my website, including the fact that its the foundation of my career as a software developer. }
+{This is a detailed description of my website and this is alink to an active site[ https://salehudeen.github.io/portfolio/] , including the fact that its the foundation of my career as a software developer. }
 ## Setup Requirements
 * can be viewed on any device
 * Internet connection
