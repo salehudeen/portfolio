@@ -20,6 +20,7 @@ h1{
 }
 h2{
   text-align: center;
+  text-decoration: underline;
 }
 .about{
   text-align: center;
@@ -30,6 +31,7 @@ body{
 h5{
   font-weight: bolder;
   font-size: 20px;
+  text-decoration: underline;
 }
 #intrests{
   float: right;
@@ -37,12 +39,20 @@ h5{
 h6{
  text-align: center;
  font-size:20px;
+ text-decoration: underline;
 }
 .hobskills{
   float:left;
-  background-color: springgreen;
+ background-image: url( ../image/pubgwaal.jpeg);
+ color: yellow;
 }
 .copyright{
   text-align: center;
   clear: both;
+}
+h4{
+  text-decoration: underline;
+}
+h3{
+  text-decoration: underline;
 }
