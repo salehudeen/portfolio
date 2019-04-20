@@ -14,5 +14,5 @@
 {IF one finds bugs please contact me through my email salehudeensaleh@gmail.com so as to give ideas and collaborate thank you.}
 ### License
 *{licenced by copyright.as seen below}*
-Copyright &copy;
+Copyright(c);
  {2019} **{by salehudeen}**
